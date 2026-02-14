@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Utility;System;
+Comment[en_IN]=Manage and access Stirling PDF Docker container
+Comment=Manage and access Stirling PDF Docker container
+Exec=/usr/bin/python3 /home/boser/stirling-pdf-manager/stirling_pdf_gui.py
+GenericName[en_IN]=
+GenericName=
+Icon=applications-other
+MimeType=
+Name[en_IN]=Stirling PDF Manager
+Name=Stirling PDF Manager
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
